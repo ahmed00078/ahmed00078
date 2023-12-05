@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 I am Ahmed Sidi Mohamed.
 
 I’m interested in Computer Science.
@@ -23,12 +23,20 @@ I’m currently studying at the Higher National School of Engineering of Tunis (
 I’m looking to collaborate with companies and people that are working on projects that will help the world one idea at a time.
 
 How to reach me, by email ahmedsidimohammed78@gmail.com.
+-->
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Sidi Mohamed</h1>
-<h3 align="center">A passionate Computer science student</h3>
+<h3 align="center">🌱I’m interested in Computer Science</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">I’m currently studying at the Higher National School of Engineering of Tunis (ENSIT).</h3>
+
+<h3 align="left">👯 I’m looking to collaborate with companies and people that are working on projects that will help the world one idea at a time.</h3>
+
+<h3 align="left">📫 How to reach me, by email ahmedsidimohammed78@gmail.com.</h3>
+
+<h3 align="left">💬 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-sidi-mohamed-56508a269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-sidi-mohamed-56508a269/" height="30" width="40" /></a>
 </p>
